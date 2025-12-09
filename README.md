@@ -19,8 +19,9 @@
 - Teaching-oriented technical documentation  
 
 ## 📊 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=jason11305&style=flat-square)
-![GitHub Contributions](https://ghchart.rshah.org/jason11305)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight)
+
 
 
 
