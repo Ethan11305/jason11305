@@ -1,4 +1,4 @@
-# Hi, I'm Jason 👋  
+# Hi, I'm Ethan 👋  
 ### SQL & Python Learner | Educator | Aspiring Data Engineer
 
 
